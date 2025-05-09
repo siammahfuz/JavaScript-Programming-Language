@@ -62,7 +62,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/JavaScript-Programming-Language.git
+git clone https://github.com/siammahfuz/JavaScript-Programming-Language
 cd JavaScript-Programming-Language
 Run a basic JavaScript example:
 
